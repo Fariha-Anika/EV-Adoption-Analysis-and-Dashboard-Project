@@ -26,7 +26,7 @@ This project analyzes electric vehicle (EV) adoption trends in Washington State,
 - **Electric Range with Company Makers and Their Models (Bubble Chart)**: Highlights brand preferences and range capabilities.  
 
 ## Tools and Technologies  
-- **Data Visualization:** Tableau, Power BI  
+- **Data Visualization:** Tableau
 - **Data Cleaning & Analysis:** Python (Pandas, NumPy)  
 - **GIS Mapping:** Tableau (for heatmaps)  
 - **Data Source:** Washington State EV registration data  
